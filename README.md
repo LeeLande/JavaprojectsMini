@@ -1,0 +1,2 @@
+# JavaprojectsMini
+small java algorithems
