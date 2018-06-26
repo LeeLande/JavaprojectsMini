@@ -1,2 +1,2 @@
 # JavaprojectsMini
-small java algorithems
+Just some small java algorithems, I made when I was bored.
